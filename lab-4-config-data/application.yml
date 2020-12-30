@@ -5,3 +5,8 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
 developer:
   name: Ghassan Toumie
+
+---
+spring:
+  profiles: subject
+words: I,You,He,She,It
