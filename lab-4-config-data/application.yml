@@ -8,5 +8,5 @@ developer:
 
 ---
 spring:
-  profiles: subject
+  profiles: lab-4-subject
 words: I,You,He,She,It
