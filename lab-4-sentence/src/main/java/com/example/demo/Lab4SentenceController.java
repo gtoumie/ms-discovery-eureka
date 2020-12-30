@@ -14,7 +14,6 @@ import org.springframework.web.client.RestTemplate;
 
 @RestController
 public class Lab4SentenceController {
-	@Value("${words}") String words;
 	
 	@Autowired DiscoveryClient discoveryClient;
 	
